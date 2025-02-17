@@ -1,0 +1,25 @@
+{
+  "name": "github-jest-preset-windows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filipoliko/jest-preset-windows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filipoliko/jest-preset-windows/issues"
+  },
+  "homepage": "https://github.com/Filipoliko/jest-preset-windows#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "workspaces": [
+    "packages/my-jest-preset"
+  ]
+}
