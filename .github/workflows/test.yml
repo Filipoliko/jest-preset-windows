@@ -21,4 +21,5 @@ jobs:
         with:
           node-version: 22
       - run: npm ci
+      - run: npx envinfo --preset jest
       - run: npm test

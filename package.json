@@ -17,7 +17,7 @@
   "homepage": "https://github.com/Filipoliko/jest-preset-windows#readme",
   "description": "",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "30.0.0-alpha.7"
   },
   "workspaces": [
     "packages/my-jest-preset"
